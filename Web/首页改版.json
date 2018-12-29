@@ -1,0 +1,53 @@
+{
+  "zh": {
+    "our_advantage_one_title": "持币贷款",
+    "our_advantage_one_value_01": "无需个人信用，无需出售代币",
+    "our_advantage_one_value_02": "数字货币抵押，法币现金提现，1小时极速放款",
+    "our_advantage_one_value_03": "熊市避免卖币损失，牛市增加资金杠杆，适合所有币圈用户，提高资金周转效率",
+    "our_advantage_two_title": "贷款计划",
+    "our_advantage_two_value_01": "支持CNY、USD、KRW法币放款及USDT放款",
+    "our_advantage_two_value_02": "最高贷款额度：5000万CNY",
+    "our_advantage_two_value_03": "贷款周期越长，年化利率越低，平均年化利率12%",
+    "our_advantage_three_title": "安全可靠",
+    "our_advantage_three_value_01": "ETC、ETH支持智能合约托管抵押资产",
+    "our_advantage_three_value_02": "BTC使用最新HD冷钱包技术，抵押资产静态隔离",
+    "our_advantage_three_value_03": "平台由同时拥有SEF和DCO资质的LedgerX托管，并经美国商务委权威认证",
+    "our_advantage_four_title": "方案灵活",
+    "our_advantage_four_value_01": "BTC、ETH、BCH、ETC、LTC、EOS…支持多种数字货币抵押贷款",
+    "our_advantage_four_value_02": "联系客服定制贷款金额、抵押币种、借款方式等，满足您的特殊贷款需求"
+  },
+  "en": {
+    "our_advantage_one_title": "持币贷款",
+    "our_advantage_one_value_01": "无需个人信用，无需出售代币",
+    "our_advantage_one_value_02": "数字货币抵押，法币现金提现，1小时极速放款",
+    "our_advantage_one_value_03": "熊市避免卖币损失，牛市增加资金杠杆，适合所有币圈用户，提高资金周转效率",
+    "our_advantage_two_title": "贷款计划",
+    "our_advantage_two_value_01": "支持CNY、USD、KRW法币放款及USDT放款",
+    "our_advantage_two_value_02": "最高贷款额度：5000万CNY",
+    "our_advantage_two_value_03": "贷款周期越长，年化利率越低，平均年化利率12%",
+    "our_advantage_three_title": "安全可靠",
+    "our_advantage_three_value_01": "ETC、ETH支持智能合约托管抵押资产",
+    "our_advantage_three_value_02": "BTC使用最新HD冷钱包技术，抵押资产静态隔离",
+    "our_advantage_three_value_03": "平台由同时拥有SEF和DCO资质的LedgerX托管，并经美国商务委权威认证",
+    "our_advantage_four_title": "方案灵活",
+    "our_advantage_four_value_01": "BTC、ETH、BCH、ETC、LTC、EOS…支持多种数字货币抵押贷款",
+    "our_advantage_four_value_02": "联系客服定制贷款金额、抵押币种、借款方式等，满足您的特殊贷款需求"
+  },
+  "ko": {
+    "our_advantage_one_title": "持币贷款",
+    "our_advantage_one_value_01": "无需个人信用，无需出售代币",
+    "our_advantage_one_value_02": "数字货币抵押，法币现金提现，1小时极速放款",
+    "our_advantage_one_value_03": "熊市避免卖币损失，牛市增加资金杠杆，适合所有币圈用户，提高资金周转效率",
+    "our_advantage_two_title": "贷款计划",
+    "our_advantage_two_value_01": "支持CNY、USD、KRW法币放款及USDT放款",
+    "our_advantage_two_value_02": "最高贷款额度：5000万CNY",
+    "our_advantage_two_value_03": "贷款周期越长，年化利率越低，平均年化利率12%",
+    "our_advantage_three_title": "安全可靠",
+    "our_advantage_three_value_01": "ETC、ETH支持智能合约托管抵押资产",
+    "our_advantage_three_value_02": "BTC使用最新HD冷钱包技术，抵押资产静态隔离",
+    "our_advantage_three_value_03": "平台由同时拥有SEF和DCO资质的LedgerX托管，并经美国商务委权威认证",
+    "our_advantage_four_title": "方案灵活",
+    "our_advantage_four_value_01": "BTC、ETH、BCH、ETC、LTC、EOS…支持多种数字货币抵押贷款",
+    "our_advantage_four_value_02": "联系客服定制贷款金额、抵押币种、借款方式等，满足您的特殊贷款需求"
+  }
+}
